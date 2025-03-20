@@ -1,0 +1,23 @@
+{
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontSize": 16,
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "remote.SSH.remotePlatform": {
+        "194.99.22.228": "linux",
+        "79.137.199.192": "linux",
+        "147.45.227.85": "linux"
+    },
+    "remote.autoForwardPortsSource": "hybrid",
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.enabled": false,
+    "python.terminal.activateEnvironment": false,
+    "python.envFile": "",
+    "workbench.startupEditor": "none",
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ],
+    "workbench.tree.indent": 22
+}
