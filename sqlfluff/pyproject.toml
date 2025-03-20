@@ -1,0 +1,18 @@
+[tool.sqlfluff.core]
+max_line_length = 80
+
+[tool.sqlfluff.indentation]
+indent_unit = space
+tab_space_size = 4
+indented_joins = true
+indented_using_on = false
+
+
+[tool.sqlfluff.rules.capitalisation.keywords]
+capitalisation_policy = upper
+
+[tool.sqlfluff.rules.capitalisation.identifiers]
+extended_capitalisation_policy = lower
+
+[tool.sqlfluff.rules.capitalisation.literals]
+capitalisation_policy = upper
